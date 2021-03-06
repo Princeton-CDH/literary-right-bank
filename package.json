@@ -1,0 +1,10 @@
+{
+  "name": "literary-right-bank",
+  "version": "0.0.0",
+  "description": "A component for a Leaflet map",
+  "main": "src/index.js",
+  "repository": "git@github.com:Princeton-CDH/literary-right-bank.git",
+  "author": "Moacir P. de Sá Pereira <github@moacir.moacir.com>",
+  "license": "MIT",
+  "private": true
+}
