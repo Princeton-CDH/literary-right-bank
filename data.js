@@ -1228,7 +1228,7 @@ const data = [
    "name": "Archibald and Ada MacLeish",
    "addresses": "8 rue Emile Augier",
    "arrondissements": 16,
-   "coordinates": [48.88332, 2.401540],
+   "coordinates": [48.85874, 2.27367],
    "rank": 1
  },
  {
@@ -1532,7 +1532,7 @@ const data = [
    "name": "André Spire",
    "addresses": "34 rue Bois de Boulogne, Paris",
    "arrondissements": 16,
-   "coordinates": [48.881453, 2.25463],
+   "coordinates": [48.875284, 2.28442],
    "rank": 1
  },
  {
