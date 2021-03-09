@@ -6,17 +6,5 @@
   "repository": "git@github.com:Princeton-CDH/literary-right-bank.git",
   "author": "Moacir P. de Sá Pereira <github@moacir.moacir.com>",
   "license": "MIT",
-  "private": true,
-  "devDependencies": {
-    "@babel/core": "^7.13.8",
-    "@babel/preset-env": "^7.13.9",
-    "@babel/preset-react": "^7.12.13",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "rollup": "^2.40.0",
-    "rollup-plugin-babel": "^4.4.0",
-    "rollup-plugin-commonjs": "^10.1.0",
-    "rollup-plugin-node-resolve": "^5.2.0",
-    "rollup-plugin-replace": "^2.2.0"
-  }
+  "private": true
 }
