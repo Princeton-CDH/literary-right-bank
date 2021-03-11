@@ -1,5 +1,5 @@
-type,tooltipName,name,address,latitude,longitude,rank
-regular,M. Alexandre,M. Alexandre,"1 avenue de Versailles, Paris",48.85047,2.27736,5
+type,tooltipName,name,address,latitude,longitude,rank,url
+regular,M. Alexandre,M. Alexandre,"1 avenue de Versailles, Paris",48.85047,2.27736,5,https://shakespeareandco.princeton.edu/members/alexandre/
 regular,B. Allan,B. Allan,"Hotel Roosevelt, 63 avenue d’Iéna, Paris",48.87133,2.29518,5
 addition,US Amb. Residence,United States Ambassador’s Residence,"2 avenue d’Iéna, Paris",48.863133,2.292068,1
 addition,Amer. Ambulance,American Ambulance Field Service,"21 rue Raynouard, Paris",48.856981,2.282973,1
