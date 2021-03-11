@@ -1,79 +1,79 @@
 type,tooltipName,name,address,latitude,longitude,rank,url
 regular,M. Alexandre,M. Alexandre,"1 avenue de Versailles, Paris",48.85047,2.27736,5,https://shakespeareandco.princeton.edu/members/alexandre/
-regular,B. Allan,B. Allan,"Hotel Roosevelt, 63 avenue d’Iéna, Paris",48.87133,2.29518,5
+regular,B. Allan,B. Allan,"Hotel Roosevelt, 63 avenue d’Iéna, Paris",48.87133,2.29518,5,https://shakespeareandco.princeton.edu/members/allan-b/
 addition,US Amb. Residence,United States Ambassador’s Residence,"2 avenue d’Iéna, Paris",48.863133,2.292068,1
 addition,Amer. Ambulance,American Ambulance Field Service,"21 rue Raynouard, Paris",48.856981,2.282973,1
 addition,US Embassy,Embassy of the United States,"51 rue de Chaillot, Paris",48.866205,2.295964,1
 addition,Amer. Women’s Club,American Women’s Club,"61 rue Boissière, Paris",48.86841691,2.287474627,1
-regular,H. Aminoff,Hans Aminoff,"5 rue Théophile Gautier, Paris",48.85093,2.27499,5
-regular,Mme Amor,Mme Amor,"3 rue Albéric Magnard, Paris",48.86067,2.27281,5
-regular,V. Armistead,V. Armistead,"20 rue de Varize, Paris",48.84235,2.25726,5
-regular,L. Astruc,Lucienne Astruc,"55 rue Bois de Boulogne, Paris",48.87509,2.28692,5
-regular,Mrs. P. Bailey,Mrs. Pearce Bailey,"75 rue de la Tour, Paris",48.86165,2.2783,5
-regular,Mrs. T. Baker,Mrs. Thornton Baker,"52 avenue Henri-Martin, Paris",48.86413,2.27756,5
-regular,H. Baldwin,Helen (Green) Baldwin,"Hotel Belmont, 30 rue de Bassano, Paris",48.86922,2.29787,3
-regular,H. Ballard,Harriet Ballard,"41 rue Poussin, Paris",48.84835,2.26082,5
-regular,Miss Ballenger,Miss Ballenger,"61 rue Boissière, Paris",48.86825,2.28746,5
-regular,Mlle Bardoux,Mlle Bardoux,"11 rue Mérimée, Paris",48.86831,2.27878,5
-regular,Mme Barrelet,Mme Barrelet,"12 avenue Kléber, Paris",48.87182,2.29311,5
-regular,J. Bartlett,Jessie Bartlett,"26 rue de Lübeck, Paris",48.86522,2.29188,5
-regular,R. Barton,Richard Barton,"39 rue le Marois, Paris",48.83825,2.26023,5
-regular,Mrs. Bayne,Mrs. Bayne,"8 rue Emile Augier, Paris",48.85874,2.27367,5
-regular,Mlle Bécourt,Mlle Bécourt,"15 rue Pétrarque, Paris",48.86174,2.28345,5
-regular,Mme Beltzer,Mme Beltzer,"3 rue du Général Roques, Paris",48.83972,2.25539,5
-regular,C. Benson,Caroline Benson,"26 rue de Lübeck, Paris",48.86522,2.29188,5
-regular,Mlle Bernard,Mlle Bernard,"100 avenue de Versailles, Paris",48.8446,2.27062,5
-regular,Mr. A. L. Berridge,Mr. A. L. Berridge,"96 rue Erlanger, Paris",48.84548,2.26062,5
-regular,C. Berry,Claudine Berry,"104 rue Michel Ange, Paris",48.84038,2.25785,5
-regular,R. Bespaloff,Rachel Bespaloff,"2 rue Gustave Zédé, Paris",48.85608,2.27293,1
-regular,Mrs. P. Binnie,Mrs. P. Binnie,"54 boulevard Exelmans, Paris",48.84219,2.26256,5
-regular,J. Bishop,John Bishop,"10 Square Alboni, Paris",48.85826,2.28675,5
-regular,M. Blandin,Mimi Blandin,"44 rue Galilée, Paris",48.87031,2.29688,5
-regular,C. Bloch,Claire Bloch,"28 avenue du Président Wilson, Paris",48.86426,2.29133,5
-regular,O. Bodington,Oliver Bodington,"14 avenue Pierre 1er de Serbie, Paris",48.8665,2.29748,5
-regular,R. Bogdanovitch,Raia Bogdanovitch,"7 rue des Eaux, Paris",48.85699,2.28525,5
-regular,Mme Boissonnas,Mme Boissonnas,"89 rue de la Pompe, Paris",48.86507,2.27803,5
-regular,M. Bostwick,Murial Bostwick,"8 rue Georges ville, Paris",48.87007,2.28895,5
-regular,C. Bourdet,Claude Bourdet,"47 avenue d'Iéna, Paris",48.86959,2.29524,5
-regular,Mme Bourget,Mme Bourget,"102 avenue Victor Hugo, Paris",48.86897,2.28279,5
-regular,Mrs. Paul Bowen,Mrs. Paul Bowen,"Hôtel d'Iéna, 36 avenue d'Iéna, Paris",48.8663952910752,2.29521029141493,5
-regular,Miss G. Briggs,Miss G. Briggs,"41 rue d'Auteuil, Paris",48.84769,2.26549,5
-regular,L. Bromfield,Louis Bromfield,"25 boulevard Flandrin, Paris",48.86651,2.27207,3
-regular,E. Burgess,Esther Burgess,"12 hameau de Boulanvilliers, Paris",48.85427,2.27366,5
-regular,K. Buss,Kate Buss,"43 rue Michel Ange, Paris",48.84455,2.26161,3
-regular,Mme Busy,Mme Busy,"22 rue de l'Alboni, Paris",48.83372,2.11762,5
-regular,Miss Byrne,Miss Byrne,"2 rue Greuze, Paris",48.86354,2.28524,5
-regular,H. Cameron,Helen Cameron,"11 rue Maspéro, Paris",48.85938,2.27189,5
-regular,H. Cameron,Helene Cameron,"17 avenue Kléber, Paris",48.87136,2.29357,5
-regular,R. Camp,Ruth Camp,"5 square Lamartine, Paris",48.86492,2.2757,3
-regular,M. Carland,M. Carland,"55 rue Claude Terrasse, Paris",48.83729,2.2606,5
-regular,H. Carr,Helen Carr,"9 rue Chalgrin, Paris",48.87428,2.28857,5
-regular,P. Carr,Philip Carr,"29 rue de Montevideo, Paris",48.86653,2.27343,5
-regular,Mme Cavadia,Mme Cavadia,"6 square Alboni, Paris",48.85837,2.28623,5
-regular,M. Chaliapin,Marina Chaliapin,"22 avenue d'Eylau, Paris",48.86469,2.2849,5
-regular,M. Chambaz,Marcel Chambaz,"10 rue Greuze, Paris",48.86388,2.2847,5
-regular,G. Chappée,Gervais Chappée,"30 rue Spontini, Paris",48.86946,2.27766,5
-regular,M. Charbonnel,Mary Maryse Charbonnel,"27 avenue Pierre 1er de Serbie, Paris",48.86702,2.29788,3
-regular,M. Chenu,M. Chenu,"5 rue Benjamin Godard, Paris",48.86627,2.27526,5
-regular,N. Clémenceau,Nime Clémenceau,"12 avenue d'Eylau, Paris",48.86439,2.28564,5
-regular,Lady E. Colvin,Lady E. Colvin,"6 square de Trocadéro, Paris",48.86276,2.28273,5
-regular,Mlle R. Constable,Mlle R. Constable,"3 rue des Eaux, Paris",48.85682,2.28545,5
-regular,Mlle Coronis,Mlle Coronis,"60 rue Bois de Boulogne, Paris",48.87537,2.28658,5
-regular,Mrs. W. H. Culbert,Mrs. W. H. Culbert,"67 avenue Victor Hugo, Paris",48.87053,2.28773,5
-regular,d'Avricourt,d'Avricourt,"66 rue Pergolèse, Paris",48.87314,2.2805,5
-regular,Mme Dalsace,Mme Dalsace,"5 avenue Alphonse XIII, Paris",48.8564,2.28102,5
-regular,A. Dandieu,Arnaud Dandieu,"11 rue Spontini, Paris",48.87007,2.27857,5
-regular,D. Japp,Darsie Japp,"3 rue de l'Amiral Cloué, Paris",48.84706,2.27374,3
-regular,E. Davison,Ellen Davison,"89 rue de la Pompe, Paris",48.86507,2.27803,5
-regular,E. de Alvear,Elvira de Alvear,"40 rue Spontini, Paris",48.86867,2.2773,1
-regular,E. de Alvear,Elvira de Alvear,"44 avenue Kléber, Paris",48.86989,2.29169,1
-regular,Mme de Bax,Mme de Bax,"18 rue Berton, Paris",48.8557,2.28186,5
-regular,Mme de Beaujeu,Mme de Beaujeu,"6 rue de Chaillot, Paris",2.35527,2.29703,5
-regular,Ctesse de Berteux,Comtesse de Berteux,"Hôtel la Pérouse, 10 rue la Pérouse, Paris",48.8715611538385,2.29435445767023,1
-regular,A. de Caro,Anita de Caro,"7 rue George Sand, Paris",48.84891,2.26942,5
-regular,J. de Cayeux,Jean de Cayeux,"8 avenue Saint-Philibert, Paris",48.85561,2.27736,5
-regular,Mme de Cerjat,Mme de Cerjat,"67 boulevard Lannes, Paris",48.86445,2.26995,5
-regular,Ctesse de Comminges,Comtesse de Comminges,"78 rue de Passy, Paris",48.85833,2.27611,1
+regular,H. Aminoff,Hans Aminoff,"5 rue Théophile Gautier, Paris",48.85093,2.27499,5,https://shakespeareandco.princeton.edu/members/aminoff/
+regular,Mme Amor,Mme Amor,"3 rue Albéric Magnard, Paris",48.86067,2.27281,5,https://shakespeareandco.princeton.edu/members/amor/
+regular,V. Armistead,V. Armistead,"20 rue de Varize, Paris",48.84235,2.25726,5,https://shakespeareandco.princeton.edu/members/armistead-3/
+regular,L. Astruc,Lucienne Astruc,"55 rue Bois de Boulogne, Paris",48.87509,2.28692,5,https://shakespeareandco.princeton.edu/members/astruc/
+regular,Mrs. P. Bailey,Mrs. Pearce Bailey,"75 rue de la Tour, Paris",48.86165,2.2783,5,https://shakespeareandco.princeton.edu/members/bailey/
+regular,Mrs. T. Baker,Mrs. Thornton Baker,"52 avenue Henri-Martin, Paris",48.86413,2.27756,5,https://shakespeareandco.princeton.edu/members/baker-3/
+regular,H. Baldwin,Helen (Green) Baldwin,"Hotel Belmont, 30 rue de Bassano, Paris",48.86922,2.29787,3,https://shakespeareandco.princeton.edu/members/baldwin-helen-green/
+regular,H. Ballard,Harriet Ballard,"41 rue Poussin, Paris",48.84835,2.26082,5,https://shakespeareandco.princeton.edu/members/ballard/
+regular,Miss Ballenger,Miss Ballenger,"61 rue Boissière, Paris",48.86825,2.28746,5,https://shakespeareandco.princeton.edu/members/ballenger-miss/
+regular,Mlle Bardoux,Mlle Bardoux,"11 rue Mérimée, Paris",48.86831,2.27878,5,https://shakespeareandco.princeton.edu/members/bardoux/
+regular,Mme Barrelet,Mme Barrelet,"12 avenue Kléber, Paris",48.87182,2.29311,5,https://shakespeareandco.princeton.edu/members/banelet-mme/
+regular,J. Bartlett,Jessie Bartlett,"26 rue de Lübeck, Paris",48.86522,2.29188,5,https://shakespeareandco.princeton.edu/members/barlett/
+regular,R. Barton,Richard Barton,"39 rue le Marois, Paris",48.83825,2.26023,5,https://shakespeareandco.princeton.edu/members/barton/
+regular,Mrs. Bayne,Mrs. Bayne,"8 rue Emile Augier, Paris",48.85874,2.27367,5,https://shakespeareandco.princeton.edu/members/bayne-2/
+regular,Mlle Bécourt,Mlle Bécourt,"15 rue Pétrarque, Paris",48.86174,2.28345,5,https://shakespeareandco.princeton.edu/members/becourt/
+regular,Mme Beltzer,Mme Beltzer,"3 rue du Général Roques, Paris",48.83972,2.25539,5,https://shakespeareandco.princeton.edu/members/beltzer-madame/
+regular,C. Benson,Caroline Benson,"26 rue de Lübeck, Paris",48.86522,2.29188,5,https://shakespeareandco.princeton.edu/members/benson-c/
+regular,Mlle Bernard,Mlle Bernard,"100 avenue de Versailles, Paris",48.8446,2.27062,5,https://shakespeareandco.princeton.edu/members/bernard/
+regular,Mr. A. L. Berridge,Mr. A. L. Berridge,"96 rue Erlanger, Paris",48.84548,2.26062,5,https://shakespeareandco.princeton.edu/members/benridge/
+regular,C. Berry,Claudine Berry,"104 rue Michel Ange, Paris",48.84038,2.25785,5,https://shakespeareandco.princeton.edu/members/berry/
+regular,R. Bespaloff,Rachel Bespaloff,"2 rue Gustave Zédé, Paris",48.85608,2.27293,1,https://shakespeareandco.princeton.edu/members/bespaloff/
+regular,Mrs. P. Binnie,Mrs. P. Binnie,"54 boulevard Exelmans, Paris",48.84219,2.26256,5,https://shakespeareandco.princeton.edu/members/binnie/
+regular,J. Bishop,John Bishop,"10 Square Alboni, Paris",48.85826,2.28675,5,https://shakespeareandco.princeton.edu/members/bishop/
+regular,M. Blandin,Mimi Blandin,"44 rue Galilée, Paris",48.87031,2.29688,5,https://shakespeareandco.princeton.edu/members/blandin-mimi/
+regular,C. Bloch,Claire Bloch,"28 avenue du Président Wilson, Paris",48.86426,2.29133,5,https://shakespeareandco.princeton.edu/members/bloch-c/
+regular,O. Bodington,Oliver Bodington,"14 avenue Pierre 1er de Serbie, Paris",48.8665,2.29748,5,https://shakespeareandco.princeton.edu/members/bodington/
+regular,R. Bogdanovitch,Raia Bogdanovitch,"7 rue des Eaux, Paris",48.85699,2.28525,5,https://shakespeareandco.princeton.edu/members/bogdanovitch/
+regular,Mme Boissonnas,Mme Boissonnas,"89 rue de la Pompe, Paris",48.86507,2.27803,5,https://shakespeareandco.princeton.edu/members/boissonnas/
+regular,M. Bostwick,Murial Bostwick,"8 rue Georges ville, Paris",48.87007,2.28895,5,https://shakespeareandco.princeton.edu/members/bostwick/
+regular,C. Bourdet,Claude Bourdet,"47 avenue d'Iéna, Paris",48.86959,2.29524,5,https://shakespeareandco.princeton.edu/members/bourdet/
+regular,Mme Bourget,Mme Bourget,"102 avenue Victor Hugo, Paris",48.86897,2.28279,5,https://shakespeareandco.princeton.edu/members/bourget/
+regular,Mrs. Paul Bowen,Mrs. Paul Bowen,"Hôtel d'Iéna, 36 avenue d'Iéna, Paris",48.8663952910752,2.29521029141493,5,https://shakespeareandco.princeton.edu/members/bowen/
+regular,Miss G. Briggs,Miss G. Briggs,"41 rue d'Auteuil, Paris",48.84769,2.26549,5,https://shakespeareandco.princeton.edu/members/briggs-2/
+regular,L. Bromfield,Louis Bromfield,"25 boulevard Flandrin, Paris",48.86651,2.27207,3,https://shakespeareandco.princeton.edu/members/bromfield-louis/
+regular,E. Burgess,Esther Burgess,"12 hameau de Boulanvilliers, Paris",48.85427,2.27366,5,https://shakespeareandco.princeton.edu/members/burgess/
+regular,K. Buss,Kate Buss,"43 rue Michel Ange, Paris",48.84455,2.26161,3,https://shakespeareandco.princeton.edu/members/buss/
+regular,Mme Busy,Mme Busy,"22 rue de l'Alboni, Paris",48.83372,2.11762,5,https://shakespeareandco.princeton.edu/members/busy/
+regular,Miss Byrne,Miss Byrne,"2 rue Greuze, Paris",48.86354,2.28524,5,https://shakespeareandco.princeton.edu/members/byrne/
+regular,H. Cameron,Helen Cameron,"11 rue Maspéro, Paris",48.85938,2.27189,5,https://shakespeareandco.princeton.edu/members/cameron/
+regular,H. Cameron,Helene Cameron,"17 avenue Kléber, Paris",48.87136,2.29357,5,https://shakespeareandco.princeton.edu/members/cameron-helene/
+regular,R. Camp,Ruth Camp,"5 square Lamartine, Paris",48.86492,2.2757,3,https://shakespeareandco.princeton.edu/members/camp/
+regular,M. Carland,M. Carland,"55 rue Claude Terrasse, Paris",48.83729,2.2606,5,https://shakespeareandco.princeton.edu/members/carland/
+regular,H. Carr,Helen Carr,"9 rue Chalgrin, Paris",48.87428,2.28857,5,https://shakespeareandco.princeton.edu/members/carr-3/
+regular,P. Carr,Philip Carr,"29 rue de Montevideo, Paris",48.86653,2.27343,5,https://shakespeareandco.princeton.edu/members/carr-philip/
+regular,Mme Cavadia,Mme Cavadia,"6 square Alboni, Paris",48.85837,2.28623,5,https://shakespeareandco.princeton.edu/members/cavadia/
+regular,M. Chaliapin,Marina Chaliapin,"22 avenue d'Eylau, Paris",48.86469,2.2849,5,https://shakespeareandco.princeton.edu/members/chaliapin/
+regular,M. Chambaz,Marcel Chambaz,"10 rue Greuze, Paris",48.86388,2.2847,5,https://shakespeareandco.princeton.edu/members/chambaz/
+regular,G. Chappée,Gervais Chappée,"30 rue Spontini, Paris",48.86946,2.27766,5,https://shakespeareandco.princeton.edu/members/chappee-gervais/
+regular,M. Charbonnel,Mary Maryse Charbonnel,"27 avenue Pierre 1er de Serbie, Paris",48.86702,2.29788,3,https://shakespeareandco.princeton.edu/members/charbonnel/
+regular,M. Chenu,M. Chenu,"5 rue Benjamin Godard, Paris",48.86627,2.27526,5,https://shakespeareandco.princeton.edu/members/chenu/
+regular,N. Clémenceau,Nime Clémenceau,"12 avenue d'Eylau, Paris",48.86439,2.28564,5,https://shakespeareandco.princeton.edu/members/clemenceau-nime/
+regular,Lady E. Colvin,Lady E. Colvin,"6 square de Trocadéro, Paris",48.86276,2.28273,5,https://shakespeareandco.princeton.edu/members/lady-colvin/
+regular,Mlle R. Constable,Mlle R. Constable,"3 rue des Eaux, Paris",48.85682,2.28545,5,https://shakespeareandco.princeton.edu/members/constable/
+regular,Mlle Coronis,Mlle Coronis,"60 rue Bois de Boulogne, Paris",48.87537,2.28658,5,https://shakespeareandco.princeton.edu/members/coronio/
+regular,Mrs. W. H. Culbert,Mrs. W. H. Culbert,"67 avenue Victor Hugo, Paris",48.87053,2.28773,5,https://shakespeareandco.princeton.edu/members/culbert/
+regular,d'Avricourt,d'Avricourt,"66 rue Pergolèse, Paris",48.87314,2.2805,5,https://shakespeareandco.princeton.edu/members/davricourt/
+regular,Mme Dalsace,Mme Dalsace,"5 avenue Alphonse XIII, Paris",48.8564,2.28102,5,https://shakespeareandco.princeton.edu/members/dalsace/
+regular,A. Dandieu,Arnaud Dandieu,"11 rue Spontini, Paris",48.87007,2.27857,5,https://shakespeareandco.princeton.edu/members/dandieu-arnaud/
+regular,D. Japp,Darsie Japp,"3 rue de l'Amiral Cloué, Paris",48.84706,2.27374,3,https://shakespeareandco.princeton.edu/members/darsie-japp/
+regular,E. Davison,Ellen Davison,"89 rue de la Pompe, Paris",48.86507,2.27803,5,https://shakespeareandco.princeton.edu/members/davison-ellen/
+regular,E. de Alvear,Elvira de Alvear,"40 rue Spontini, Paris",48.86867,2.2773,1,https://shakespeareandco.princeton.edu/members/alvear/
+regular,E. de Alvear,Elvira de Alvear,"44 avenue Kléber, Paris",48.86989,2.29169,1,https://shakespeareandco.princeton.edu/members/alvear/
+regular,Mme de Bax,Mme de Bax,"18 rue Berton, Paris",48.8557,2.28186,5,https://shakespeareandco.princeton.edu/members/bax-de/
+regular,Mme de Beaujeu,Mme de Beaujeu,"6 rue de Chaillot, Paris",2.35527,2.29703,5,https://shakespeareandco.princeton.edu/members/beaujeu/
+regular,Ctesse de Berteux,Comtesse de Berteux,"Hôtel la Pérouse, 10 rue la Pérouse, Paris",48.8715611538385,2.29435445767023,1,https://shakespeareandco.princeton.edu/members/berteux/
+regular,A. de Caro,Anita de Caro,"7 rue George Sand, Paris",48.84891,2.26942,5,https://shakespeareandco.princeton.edu/members/de-caro/
+regular,J. de Cayeux,Jean de Cayeux,"8 avenue Saint-Philibert, Paris",48.85561,2.27736,5,https://shakespeareandco.princeton.edu/members/cayeux/
+regular,Mme de Cerjat,Mme de Cerjat,"67 boulevard Lannes, Paris",48.86445,2.26995,5,https://shakespeareandco.princeton.edu/members/cerjat/
+regular,Ctesse de Comminges,Comtesse de Comminges,"78 rue de Passy, Paris",48.85833,2.27611,1,https://shakespeareandco.princeton.edu/members/comminges-de/
 regular,M. de Fels,Marthe de Fels,"31 rue Octave Feuillet, Paris",48.86208,2.27043,5
 regular,P. de Lanux,Pierre de Lanux,"34 rue des Vignes, Paris",48.85587,2.27626,3
 regular,C. de Lubersac,Constance (Livermore-Seillière) de Lubersac,"1 rue Charles Lamoureux, Paris",48.86856,2.27847,1
