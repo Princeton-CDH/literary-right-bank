@@ -9,20 +9,9 @@ const colors = [
   "#666666",
 ];
 
-const markerOptions = ({fillColor, tier}) => ({
-  radius: 8,
-  fillColor,
-  tier,
-  color: "#fff",
-  weight: 3,
-  opacity: 1,
-  fillOpacity: 0.9 });
-
-const toolTip = name => L.tooltip({ opacity: 0.7, permanent: true, interactive: true }).setContent(name);
-
 const addMap = async () => {
   data = await d3.csv("./data.csv");
-  layerValues = "america aristocrats jewish-16 nomads rich-people valery when-sylvia-met-james others".split(" ");
+  layerValues = "america aristocrats jewish-16 nomads rich-people valery when-sylvia-met-james".split(" ");
 
   const map = L.map('map', {
     zoom: 16,
@@ -45,10 +34,43 @@ const addMap = async () => {
     L.layerGroup(data
       .filter(e => e.group === group)
       .map(element =>
-        L.circleMarker([element.latitude, element.longitude], markerOptions({fillColor: colors[i], tier: element.rank})).bindPopup(`
-        <h2><a href="${element.url}">${element.name}</a></h2>
-        <p>${element.address}</p>
-        `).bindTooltip(toolTip(element.tooltipName))
+        L.circleMarker([element.latitude, element.longitude], {
+          radius: 8,
+          fillColor: colors[i],
+          tier: element.rank,
+          color: "#fff",
+          weight: 3,
+          opacity: 1,
+          fillOpacity: 0.9 })
+          .bindPopup(`
+            <h2><a href="${element.url}">${element.name}</a></h2>
+            <p>${element.address}</p>
+          `)
+          .bindTooltip(L.tooltip({ 
+            opacity: 0.7, 
+            permanent: true, 
+            interactive: true })
+            .setContent(element.tooltipName)
+          )
+      )
+    )
+  );
+
+  layers.push(L.layerGroup(data
+    .filter(e => e.group === "others")
+    .map(element =>
+      L.circleMarker([element.latitude, element.longitude], {
+        radius: 5,
+        fillColor: colors[7],
+        tier: element.rank,
+        color: "#fff",
+        weight: 1,
+        opacity: 1,
+        fillOpacity: 0.9 })
+        .bindPopup(`
+          <h2><a href="${element.url}">${element.name}</a></h2>
+          <p>${element.address}</p>
+        `)
       )
     )
   );
