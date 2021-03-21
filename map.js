@@ -1,7 +1,7 @@
 const handlePopup = element => {
   let popup = "<h2>";
   if(element.url !== "") {
-    popup = popup + `<a href="${element.url}">${element.name}</a>`;
+    popup = popup + `<a href="${element.url}" rel="noreferrer noopener" target="_blank">${element.name}</a>`;
   } else {
     popup = popup + element.name;
   }
