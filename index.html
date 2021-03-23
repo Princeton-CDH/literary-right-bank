@@ -6,18 +6,23 @@
       integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
       crossorigin=""/>
     <style>
-      #map { 
+      #map {
         height: 100vh;
         width: 100vw;
       }
-
-      body {
-        padding: 0px;
-        margin: 0px;
-      }
-
       svg.leaflet-zoom-animated {
         background-color: rgba(255, 255, 255, .4);
+      }
+      /* sizes when embedded on S&co site */
+      .embed #map {
+        height: 550px;
+        width: 1024px;
+      }
+      @media (min-width: 768px) {
+        .embed #map {
+          height: 50vh;
+          width: 100%;
+        }
       }
     </style>
   </head>
