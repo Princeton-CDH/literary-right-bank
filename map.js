@@ -10,7 +10,8 @@ const handlePopup = element => {
 };
 
 const addMap = async () => {
-  data = await d3.csv("./data.csv");
+  // load data relative to current location, so it will work for local dev or embed
+  data = await d3.csv(window.location.origin + window.location.pathname + "data.csv");
 
   const map = L.map('map', {
     zoom: 16,
@@ -41,9 +42,9 @@ const addMap = async () => {
         opacity: 1,
         fillOpacity: 0.9 })
         .bindPopup(handlePopup(element))
-        .bindTooltip(L.tooltip({ 
-          opacity: 0.7, 
-          permanent: true, 
+        .bindTooltip(L.tooltip({
+          opacity: 0.7,
+          permanent: true,
           interactive: true })
           .setContent(element.tooltipName)
         )
