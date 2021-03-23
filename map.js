@@ -10,8 +10,8 @@ const handlePopup = element => {
 };
 
 const addMap = async () => {
-  // load data relative to current location, so it will work for local dev or embed
-  data = await d3.csv(window.location.origin + window.location.pathname + "data.csv");
+  // load data by absolute path so it will resolve when embedded
+  data = await d3.csv("https://princeton-cdh.github.io/literary-right-bank/data.csv");
 
   const map = L.map('map', {
     zoom: 16,
