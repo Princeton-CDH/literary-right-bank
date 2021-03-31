@@ -26,7 +26,7 @@ const addMap = async () => {
       address: d[3],
       latitude: parseFloat(d[4]),  // convert to number
       longitude: parseFloat(d[5]),
-      rank: parseInt(d[6]),
+      rank: parseInt(d[6], 10),
       url: d[7],
       group: d[8],
       };
