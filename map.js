@@ -10,8 +10,27 @@ const handlePopup = element => {
 };
 
 const addMap = async () => {
+  // NOTE: using fetch and parseRows because csv.parse does not
+  // work with Content Security Policy — see https://github.com/d3/d3-dsv#content-security-policy
+
   // load data by absolute path so it will resolve when embedded
-  data = await d3.csv("https://princeton-cdh.github.io/literary-right-bank/data.csv");
+  rawcsv = await d3.text("https://princeton-cdh.github.io/literary-right-bank/data.csv");
+  // remove header row
+  content = rawcsv.substring(rawcsv.indexOf("\n")+1)
+  data = d3.csvParseRows(content, function(d, i) {
+    return {
+      // hardcode mapping for simplicity; could use header row if desired
+      type: d[0],
+      tooltipName: d[1],
+      name: d[2],
+      address: d[3],
+      latitude: parseFloat(d[4]),  // convert to number
+      longitude: parseFloat(d[5]),
+      rank: parseInt(d[6]),
+      url: d[7],
+      group: d[8],
+      };
+  });
 
   const map = L.map('map', {
     zoom: 16,
